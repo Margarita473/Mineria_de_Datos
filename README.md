@@ -1,4 +1,4 @@
-# Mineria_de_Datos
+# Mineria de Datos
 
 ## Tareas de Minería de Datos
 
