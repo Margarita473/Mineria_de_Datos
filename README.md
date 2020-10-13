@@ -12,4 +12,4 @@
 
 [Mapa Mental II](https://github.com/MargaritaOrdaz/Mineria_de_Datos/blob/master/MapaMental_2_1802473.pdf)
 
-[Bases de Datos](https://github.com/MargaritaOrdaz/Mineria_de_Datos/blob/master/Bases_de_datos_1802473.pdf)
+
