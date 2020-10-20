@@ -1,6 +1,8 @@
 # Mineria de Datos
 
-## Tareas de Minería de Datos
+## G002|FCFM
+
+## Fase 1
 
 [Mapa Mental I](https://github.com/MargaritaOrdaz/Mineria_de_Datos/blob/master/MapaMental_1_1802473.pdf)
 
@@ -12,6 +14,8 @@
 
 [Mapa Mental II](https://github.com/MargaritaOrdaz/Mineria_de_Datos/blob/master/MapaMental_2_1802473.pdf)
 
+## Fase 2
+
 [Análisis Bases de Datos](https://github.com/MargaritaOrdaz/Mineria_de_Datos/blob/master/An%C3%A1lisisBD_1802473.pdf)
 
-[Ejercicios Báscios en Python](https://github.com/MargaritaOrdaz/Mineria_de_Datos/blob/master/PythonBasico_1802473.ipynb)
+[Ejercicios Básicos en Python](https://github.com/MargaritaOrdaz/Mineria_de_Datos/blob/master/PythonBasico_1802473.ipynb)
