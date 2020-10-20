@@ -13,3 +13,5 @@
 [Mapa Mental II](https://github.com/MargaritaOrdaz/Mineria_de_Datos/blob/master/MapaMental_2_1802473.pdf)
 
 [Análisis Bases de Datos](https://github.com/MargaritaOrdaz/Mineria_de_Datos/blob/master/An%C3%A1lisisBD_1802473.pdf)
+
+[Ejercicios Báscios en Python](https://github.com/MargaritaOrdaz/Mineria_de_Datos/blob/master/PythonBasico_1802473.ipynb)
