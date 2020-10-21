@@ -1,6 +1,6 @@
 # Mineria de Datos
 
-## G002|FCFM
+## G002 | FCFM
 
 ## Fase 1
 
