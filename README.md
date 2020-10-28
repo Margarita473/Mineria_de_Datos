@@ -18,6 +18,6 @@
 
 [Análisis Bases de Datos](https://github.com/MargaritaOrdaz/Mineria_de_Datos/blob/master/An%C3%A1lisisBD_1802473.pdf)
 
-[Ejercicios Básicos en Python](https://github.com/MargaritaOrdaz/Mineria_de_Datos/blob/master/PythonBasico_1802473.ipynb
+[Ejercicios Básicos en Python](https://github.com/MargaritaOrdaz/Mineria_de_Datos/blob/master/PythonBasico_1802473.ipynb)
 
 [Primer Avance PIA](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/Avance1-PIA_02_002.pdf)
