@@ -22,6 +22,6 @@
 
 [Primer Avance PIA](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/Avance1-PIA_02_002.pdf)
 
-[P1 - Manipulación de Datos.](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/Ejercicio_Limpieza_de_Datos_Equipo_02.ipynb)
+[P1 - Manipulación de Datos.](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/P1%20-%20Manipulacion%20de%20datos.ipynb)
 
-[P2 - Visualización de datos.](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/Visualizaci%C3%B3n_de_Datos_Equipo_02.ipynb)
+[P2 - Visualización de datos.](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/P2%20-%20Visualizacion%20de%20datos.ipynb)
