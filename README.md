@@ -31,3 +31,9 @@
 [Avance PIA II_002_02 PDF](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/AvancePIA_II_002_02.pdf)
 
 [Avance PIA II_002_02 COLABORATORY](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/AvancePIA_II_002_02.ipynb)
+
+[PIA_02_002](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/PIA_02_002.pdf)
+
+[Código PIA](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/PIA_002_02.ipynb)
+
+
